@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/zomoto-clone/static/css/main.bc2ec134.css",
+    "main.js": "/zomoto-clone/static/js/main.9ca6a21d.js",
+    "static/js/453.b6a10629.chunk.js": "/zomoto-clone/static/js/453.b6a10629.chunk.js",
+    "static/media/snacks.jpg": "/zomoto-clone/static/media/snacks.89590cfb54249e3444cd.jpg",
+    "static/media/food_background.jpg": "/zomoto-clone/static/media/food_background.6a545d4d0a80d9813949.jpg",
+    "static/media/lunch.jpg": "/zomoto-clone/static/media/lunch.fde63931c12f47d3fecb.jpg",
+    "static/media/bootstrap-icons.woff?": "/zomoto-clone/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/zomoto-clone/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/idly.jpg": "/zomoto-clone/static/media/idly.a4b8a3be3a76d04197b3.jpg",
+    "index.html": "/zomoto-clone/index.html",
+    "main.bc2ec134.css.map": "/zomoto-clone/static/css/main.bc2ec134.css.map",
+    "main.9ca6a21d.js.map": "/zomoto-clone/static/js/main.9ca6a21d.js.map",
+    "453.b6a10629.chunk.js.map": "/zomoto-clone/static/js/453.b6a10629.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2ec134.css",
+    "static/js/main.9ca6a21d.js"
+  ]
+}
